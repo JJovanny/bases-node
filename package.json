@@ -1,0 +1,11 @@
+{
+  "name": "0-a-100",
+  "version": "1.0.0",
+  "description": "linea de comando",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jovanny Granados",
+  "license": "ISC"
+}
